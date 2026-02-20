@@ -205,3 +205,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dados pesados (não versionar dataset)
+data/
+*.zip
+*.rar
+*.7z
+
+# Pesos de modelo
+*.pt
+*.pth
