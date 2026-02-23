@@ -213,12 +213,6 @@ __marimo__/
 __pycache__/
 *.pyc
 
-# Dados pesados (não versionar dataset)
-data/
-*.zip
-*.rar
-*.7z
-
 # Pesos de modelo
 *.pt
 *.pth
